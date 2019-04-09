@@ -1,0 +1,1 @@
+Place all yml files under C:/temp/config location
